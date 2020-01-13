@@ -12,4 +12,4 @@
 * 无符号短整型: 关键字 unsigned short 占用空间 2字节 值范围 0到65,535
 * 无符号长整型: 关键字 unsigned long 占用空间 8字节
 * 无符号字符型: 关键字 unsigned char 占用空间 1字节 值范围 0到255
-###### 作为一个新手，在这些基本数据类型里你要重点关注的是 int char float double
+###### 作为一个新手，在这些基本数据类型里你要重点关注的有: int char float double
