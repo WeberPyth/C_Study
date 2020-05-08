@@ -9,7 +9,7 @@ int main(void)
    printf("Hello World!");  
     return 0;  
 }
-```c
+```
 正如上面代码所展示的一样，它是一个十分简单的程序。让我们来看看它的结构。  
   
 
