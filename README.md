@@ -9,4 +9,4 @@
 ## 目录
 * 前言_导论
 * HelloWorld
-* 基本数据类型(BaseDataType)
+* 基本数据类型
